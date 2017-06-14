@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\BitcoinClient.cs">
+    <Files>
+      <File FileName="Assets\Scripts\BitcoinClient.cs" Line="12" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\putkin\Documents\Car\Assets\Scripts\RemoteClient.cs" line="121" column="1" />
+      <Breakpoint file="C:\Users\putkin\Documents\Car\Assets\Scripts\RemoteClient.cs" line="90" column="1" />
+      <Breakpoint file="C:\Users\putkin\Documents\Car\Assets\Scripts\RemoteClient.cs" line="118" column="1" />
+      <Breakpoint file="C:\Users\putkin\Documents\Car\Assets\Scripts\RemoteClient.cs" line="92" column="1" />
+      <Breakpoint file="C:\Users\putkin\Documents\Car\Assets\Scripts\RemoteClient.cs" line="91" column="1" />
+      <Breakpoint file="C:\Users\putkin\Documents\Car\Assets\Scripts\RemoteClient.cs" line="100" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
